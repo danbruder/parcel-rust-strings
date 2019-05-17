@@ -2,3 +2,4 @@
 **/*.rs.bk.cache
 dist
 node_modules
+.cache
