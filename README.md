@@ -1,0 +1,3 @@
+# Parcel / Rust
+
+For some reason functions returning Rust Strings show up as `undefined` on the JS side. Not sure why...
